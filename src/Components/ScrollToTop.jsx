@@ -1,14 +1,25 @@
-import { useEffect } from 'react';
-import { useLocation } from 'react-router-dom';
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
 
 const ScrollToTop = () => {
-    const { pathname } = useLocation();
+  const location = useLocation();
 
-    useEffect(() => {
-        window.scrollTo(0, 0)
-    }, [pathname]);
+  useEffect(() => {
+    // Define routes for which scroll to top should not happen
+    const exemptedRoutes = ["/products", "/products/:id"]; // Update with actual dynamic routes if necessary
 
-    return null;
+    // Check if current or previous route is exempted
+    const isExempted = exemptedRoutes.some((route) =>
+      location.pathname.includes(route.replace(":id", ""))
+    );
+
+    // Scroll to top only if the route is not exempted
+    if (!isExempted) {
+      window.scrollTo(0, 0);
+    }
+  }, [location]);
+
+  return null;
 };
 
 export default ScrollToTop;

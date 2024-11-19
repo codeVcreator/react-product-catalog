@@ -48,7 +48,7 @@ const Navbar = () => {
                         </Link>
                     </li>
                 </ul>
-                <Link to="https://www.bynry.com/" target="_blank">
+                <Link to="https://www.meraken.com/" target="_blank">
                     <button className="know-more" onClick={handleLinkClick}>
                         Know More About Us
                     </button>
