@@ -19,7 +19,7 @@ const Homepage = () => {
                 <div className="home-card-container homepage-content">
 
                     {/* Admin Card */}
-                    <Link to="/admin" className="home-link">
+                    <Link to="/admin/products" className="home-link">
                         <div className="home-card admin">
                             <p>Admin</p>
                             <FontAwesomeIcon

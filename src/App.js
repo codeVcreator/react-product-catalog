@@ -10,6 +10,8 @@ import Products from './Pages/Products'
 import About from './Pages/About';
 import Error from './Pages/Error';
 import ProductDetails from './Pages/ProductDetails';
+import Admin from './Pages/Admin';
+
 
 const App = () => {
   return (
@@ -22,6 +24,7 @@ const App = () => {
                 <Route path="/contact" element={<Contact />} />
                 <Route path='/customer/products' element={<Products />} />
                 <Route path='/customer/products/:id' element={<ProductDetails />} />
+                <Route path='/admin/products' element={<Admin />} />
                 <Route path="*" element={<Error />} />
                 <Route path="/error" element={<Error />} />
             </Routes>
