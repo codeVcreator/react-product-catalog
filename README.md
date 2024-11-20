@@ -11,11 +11,9 @@ This project is a single-page application (SPA) built with React.js that serves 
 - **Category Filter**: Filter products based on their category.
 - **Responsive Design**: Fully responsive layout, optimized for desktop, tablet, and mobile devices.
 
-### Optional Enhancements
+### Enhancements
 - **Sorting**: Sort products by price in ascending or descending order.
 - **Admin Panel**: Manage products (add, edit, delete) via an admin interface.
-- **Animations**: Subtle animations for hover effects and transitions.
-- **Cart Functionality**: Add products to a cart (implemented as a placeholder feature).
 
 ---
 
