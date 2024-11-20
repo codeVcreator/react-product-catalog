@@ -697,8 +697,22 @@ span {
 --------------------------------------------------------------------------------
 */
 .product-details-page {
-  padding: 20px;
+  padding: 40px;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-details-page button {
+  margin-top: 10px;
+  background-color: #007bff;
+}
+
+.product-details-page button:hover {
+  background-color: #0056b3;
+  border: black 1px solid;
 }
 
 .product-details img {

@@ -13,7 +13,6 @@ const ProductDetails = () => {
 
     return (
         <div className="product-details-page hero">
-            <button onClick={() => navigate(-1)}>Go Back</button>
             <div className="product-details">
                 <img src={product.image} alt={product.name} />
                 <h3>{product.name}</h3>
@@ -21,6 +20,7 @@ const ProductDetails = () => {
                 <p>Category: {product.category}</p>
                 <p>Description: {product.description}</p>
             </div>
+            <button onClick={() => navigate(-1)}>Go Back</button> <br />
         </div>
     );
 };
