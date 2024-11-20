@@ -1,78 +1,71 @@
-React Product Catalog
+# React Product Catalog
+
 This project is a single-page application (SPA) built with React.js that serves as a product catalog. Users can view, search, filter, sort, and browse detailed information about products. The project uses static JSON data to simulate product information.
 
-Features
-Core Features
-Product Listing: Display a list of products with image, name, price, and a "View Details" button.
-Product Details: View detailed information, including a larger image and description of a selected product.
-Search: Search products by name in real-time.
-Category Filter: Filter products based on their category.
-Responsive Design: Fully responsive layout, optimized for desktop, tablet, and mobile devices.
-Optional Enhancements
-Sorting: Sort products by price in ascending or descending order.
-Admin Panel: Manage products (add, edit, delete) via an admin interface.
-Animations: Subtle animations for hover effects and transitions.
-Cart Functionality: Add products to a cart (implemented as a placeholder feature).
-Screenshots
-Home Page
+## Features
 
-Admin Panel
+### Core Features
+- **Product Listing**: Display a list of products with image, name, price, and a "View Details" button.
+- **Product Details**: View detailed information, including a larger image and description of a selected product.
+- **Search**: Search products by name in real-time.
+- **Category Filter**: Filter products based on their category.
+- **Responsive Design**: Fully responsive layout, optimized for desktop, tablet, and mobile devices.
 
-Product Details
+### Optional Enhancements
+- **Sorting**: Sort products by price in ascending or descending order.
+- **Admin Panel**: Manage products (add, edit, delete) via an admin interface.
+- **Animations**: Subtle animations for hover effects and transitions.
+- **Cart Functionality**: Add products to a cart (implemented as a placeholder feature).
 
-Installation
-Prerequisites
+---
+
+## Screenshots
+
+### Home Page
+![Home Page Screenshot](./src/Components/images/homepage.png)
+
+### Admin Panel
+![Admin Panel Screenshot](./src/Components/images/admin-panel.png)
+
+### Product Details
+![Product Details Screenshot](./src/Components/images/customer-panel.png)
+
+---
+
+## Installation
+
+### Prerequisites
 Make sure you have the following installed on your system:
+- Node.js (v16+ recommended)
+- npm or yarn
 
-Node.js (v16+ recommended)
-npm or yarn
-Steps to Run Locally
-Clone this repository:
+### Steps to Run Locally
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/codeVcreator/react-product-catalog.git
+   cd react-product-catalog
+   ```
 
-bash
-Copy code
-git clone https://github.com/your-username/react-product-catalog.git
-cd react-product-catalog
-Install dependencies:
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-bash
-Copy code
-npm install
-Start the development server:
+3. Start the development server:
+   ```bash
+   npm start
+   ```
 
-bash
-Copy code
-npm start
-Open the app in your browser at:
+4. Open the app in your browser at:
+   ```
+   http://localhost:3000
+   ```
 
-arduino
-Copy code
-http://localhost:3000
-Project Structure
-plaintext
-Copy code
-src/
-├── components/
-│   ├── AdminPanel.jsx       # Admin functionality for managing products
-│   ├── CategoryFilter.jsx   # Component for filtering by category
-│   ├── ProductDetails.jsx   # Component to show detailed product view
-│   ├── ProductItem.jsx      # Individual product card
-│   ├── ProductList.jsx      # Grid/list view of products
-│   └── SearchBar.jsx        # Search bar for filtering products by name
-├── data/
-│   └── products.json        # Static JSON data for products
-├── pages/
-│   ├── HomePage.jsx         # Main product catalog page
-│   ├── AdminPage.jsx        # Admin page
-│   └── ProductDetailsPage.jsx # Product details page
-├── App.jsx                  # Main React app component
-├── index.css                # Global CSS
-└── index.js                 # Entry point of the app
-Static JSON Sample
-Example of a product in products.json:
+---
 
-json
-Copy code
+## Static JSON Sample
+Example of a product in `products.json`:
+```json
 [
   {
     "id": 1,
@@ -91,13 +84,22 @@ Copy code
     "description": "Stay connected on the go with this stylish smart watch."
   }
 ]
-Challenges and Learnings
-State Management: Implemented useState and useEffect to handle component states efficiently.
-Routing: Used React Router to create a seamless navigation experience between pages.
-Responsive Design: Ensured responsiveness with flexbox and media queries.
-Reusable Components: Created modular, reusable components like ProductItem and CategoryFilter.
-Tools and Libraries Used
-React: Framework for building the SPA.
-React Router: For page navigation.
-Tailwind CSS: For styling the UI.
-JSON: Static file used as a mock database.
+```
+
+---
+
+## Challenges and Learnings
+
+- **State Management**: Implemented `useState` and `useEffect` to handle component states efficiently.
+- **Routing**: Used React Router to create a seamless navigation experience between pages.
+- **Responsive Design**: Ensured responsiveness with flexbox and media queries.
+- **Reusable Components**: Created modular, reusable components like `ProductItem` and `CategoryFilter`.
+
+---
+
+## Tools and Libraries Used
+
+- **React**: Framework for building the SPA.
+- **React Router**: For page navigation.
+- **Custom CSS**: For styling the UI.
+- **JSON**: Static file used as a mock database.
