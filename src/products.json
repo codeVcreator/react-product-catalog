@@ -5,7 +5,7 @@
         "name": "Masala Chai Blend",
         "category": "Beverages",
         "price": 249,
-        "image": "images/masala-chai.jpg",
+        "image": "/product-images/masala-chai-blend.jpg",
         "description": "A traditional Indian tea blend with aromatic spices for a perfect cup of chai."
       },
       {
@@ -13,7 +13,7 @@
         "name": "Organic Assam Tea",
         "category": "Beverages",
         "price": 399,
-        "image": "images/assam-tea.jpg",
+        "image": "/product-images/organic-assam-tea.jpg",
         "description": "Premium organic tea leaves sourced from Assam, known for their rich flavor."
       },
       {
@@ -21,7 +21,7 @@
         "name": "Filter Coffee Powder",
         "category": "Beverages",
         "price": 350,
-        "image": "images/filter-coffee.jpg",
+        "image": "/product-images/filter-coffee-powder.jpg",
         "description": "Authentic South Indian filter coffee for a strong and flavorful experience."
       },
       {
@@ -29,7 +29,7 @@
         "name": "Coconut Water Pack",
         "category": "Beverages",
         "price": 120,
-        "image": "images/coconut-water.jpg",
+        "image": "/product-images/coconut-water-pack.jpg",
         "description": "Refreshing and natural coconut water in a convenient pack."
       },
       {
@@ -37,7 +37,7 @@
         "name": "Badam Milk Mix",
         "category": "Beverages",
         "price": 299,
-        "image": "images/badam-milk.jpg",
+        "image": "/product-images/badam-milk-mix.jpg",
         "description": "A blend of almonds and spices for a nutritious and delicious drink."
       },
       {
@@ -45,7 +45,7 @@
         "name": "Aam Panna Concentrate",
         "category": "Beverages",
         "price": 199,
-        "image": "images/aam-panna.jpg",
+        "image": "/product-images/aam-panna-concentrate.jpg",
         "description": "A tangy raw mango drink mix, perfect for Indian summers."
       },
       {
@@ -53,7 +53,7 @@
         "name": "Tulsi Green Tea",
         "category": "Beverages",
         "price": 349,
-        "image": "images/tulsi-green-tea.jpg",
+        "image": "/product-images/tulsi-green-tea.jpg",
         "description": "Herbal green tea infused with the goodness of tulsi."
       },
       {
@@ -61,7 +61,7 @@
         "name": "Thandai Syrup",
         "category": "Beverages",
         "price": 250,
-        "image": "images/thandai.jpg",
+        "image": "/product-images/thandai-syrup.jpg",
         "description": "A festive drink mix with saffron, almonds, and spices."
       },
       {
@@ -69,7 +69,7 @@
         "name": "Kashmiri Kahwa",
         "category": "Beverages",
         "price": 299,
-        "image": "images/kahwa.jpg",
+        "image": "/product-images/kashmiri-kahwa.jpg",
         "description": "A fragrant tea blend with saffron, almonds, and spices from Kashmir."
       },
       {
@@ -77,7 +77,7 @@
         "name": "Rose Milk Syrup",
         "category": "Beverages",
         "price": 180,
-        "image": "images/rose-milk.jpg",
+        "image": "/product-images/rose-milk-syrup.jpg",
         "description": "A sweet and fragrant rose milk mix loved across India."
       },
       {
@@ -85,7 +85,7 @@
         "name": "Khadi Cotton Kurta",
         "category": "Clothing",
         "price": 799,
-        "image": "images/khadi-kurta.jpg",
+        "image": "/product-images/khadi-cotton-kurta.jpg",
         "description": "A classic khadi cotton kurta for a comfortable and traditional look."
       },
       {
@@ -93,7 +93,7 @@
         "name": "Banarasi Silk Saree",
         "category": "Clothing",
         "price": 2999,
-        "image": "images/banarasi-saree.jpg",
+        "image": "/product-images/banarasi-silk-saree.jpg",
         "description": "Elegant Banarasi silk saree with intricate zari work."
       },
       {
@@ -101,7 +101,7 @@
         "name": "Kolhapuri Chappals",
         "category": "Clothing",
         "price": 599,
-        "image": "images/kolhapuri-chappals.jpg",
+        "image": "/product-images/kolhapuri-chappal.jpg",
         "description": "Handcrafted Kolhapuri chappals made with genuine leather."
       },
       {
@@ -109,7 +109,7 @@
         "name": "Pashmina Shawl",
         "category": "Clothing",
         "price": 4500,
-        "image": "images/pashmina-shawl.jpg",
+        "image": "/product-images/pashmina-shawl.jpg",
         "description": "Luxurious pashmina shawl from Kashmir, perfect for winter."
       },
       {
@@ -117,7 +117,7 @@
         "name": "Rajasthani Bandhani Dupatta",
         "category": "Clothing",
         "price": 1200,
-        "image": "images/bandhani-dupatta.jpg",
+        "image": "/product-images/rajasthani-bandhani-dupatta.jpg",
         "description": "Bright and colorful Bandhani dupatta from Rajasthan."
       },
       {
@@ -125,7 +125,7 @@
         "name": "Cotton Anarkali Suit",
         "category": "Clothing",
         "price": 1599,
-        "image": "images/anarkali-suit.jpg",
+        "image": "/product-images/cotton-anarkali-suit.jpg",
         "description": "Elegant cotton Anarkali suit with embroidery work."
       },
       {
@@ -133,7 +133,7 @@
         "name": "Linen Saree",
         "category": "Clothing",
         "price": 2500,
-        "image": "images/linen-saree.jpg",
+        "image": "/product-images/linen-saree.jpg",
         "description": "Soft and breathable linen saree for daily wear."
       },
       {
@@ -141,7 +141,7 @@
         "name": "Lehenga Choli",
         "category": "Clothing",
         "price": 6500,
-        "image": "images/lehenga-choli.jpg",
+        "image": "/product-images/lehenga-choli.jpg",
         "description": "Designer lehenga choli for weddings and festive occasions."
       },
       {
@@ -149,7 +149,7 @@
         "name": "Cotton Printed Kurti",
         "category": "Clothing",
         "price": 999,
-        "image": "images/printed-kurti.jpg",
+        "image": "/product-images/cotton-printed-kurti.jpg",
         "description": "Stylish and comfortable cotton printed kurti for casual wear."
       },
       {
@@ -157,7 +157,7 @@
         "name": "Woolen Muffler",
         "category": "Clothing",
         "price": 499,
-        "image": "images/woolen-muffler.jpg",
+        "image": "/product-images/woolen-muffler.jpg",
         "description": "Warm and cozy woolen muffler for cold weather."
       },
       {
@@ -165,7 +165,7 @@
         "name": "LED Smart TV",
         "category": "Electronics",
         "price": 25999,
-        "image": "images/smart-tv.jpg",
+        "image": "/product-images/LED-smart-TV.jpg",
         "description": "32-inch Full HD Smart LED TV with streaming apps and voice control."
       },
       {
@@ -173,7 +173,7 @@
         "name": "Noise-Canceling Headphones",
         "category": "Electronics",
         "price": 4999,
-        "image": "images/noise-headphones.jpg",
+        "image": "/product-images/noise-cancelling-headphones.jpg",
         "description": "Wireless over-ear headphones with noise-canceling technology."
       },
       {
@@ -181,7 +181,7 @@
         "name": "Smartphone (5G Ready)",
         "category": "Electronics",
         "price": 19999,
-        "image": "images/smartphone.jpg",
+        "image": "/product-images//smartphone-5g-ready.jpg",
         "description": "Affordable 5G-ready smartphone with 128GB storage."
       },
       {
@@ -189,7 +189,7 @@
         "name": "Bluetooth Speaker",
         "category": "Electronics",
         "price": 2999,
-        "image": "images/bluetooth-speaker.jpg",
+        "image": "/product-images/bluetooth-speaker.jpg",
         "description": "Portable Bluetooth speaker with deep bass and 10-hour battery life."
       },
       {
@@ -197,7 +197,7 @@
         "name": "Fitness Band",
         "category": "Electronics",
         "price": 2499,
-        "image": "images/fitness-band.jpg",
+        "image": "/product-images/fitness-band.jpg",
         "description": "Track your fitness goals with this lightweight, water-resistant band."
       },
       {
@@ -205,7 +205,7 @@
         "name": "Laptop (i5, 8GB RAM)",
         "category": "Electronics",
         "price": 45999,
-        "image": "images/laptop.jpg",
+        "image": "/product-images/laptop-i5-8gb-ram.jpg",
         "description": "15.6-inch laptop with i5 processor, 8GB RAM, and 512GB SSD."
       },
       {
@@ -213,7 +213,7 @@
         "name": "Induction Cooktop",
         "category": "Electronics",
         "price": 2499,
-        "image": "images/induction-cooktop.jpg",
+        "image": "/product-images/induction-cooktop.jpg",
         "description": "Energy-efficient cooktop with multiple pre-set cooking modes."
       },
       {
@@ -221,7 +221,7 @@
         "name": "Electric Kettle",
         "category": "Electronics",
         "price": 999,
-        "image": "images/electric-kettle.jpg",
+        "image": "/product-images/electric-kettle.jpg",
         "description": "1.5L electric kettle for quick and convenient boiling."
       },
       {
@@ -229,7 +229,7 @@
         "name": "Air Purifier",
         "category": "Electronics",
         "price": 7999,
-        "image": "images/air-purifier.jpg",
+        "image": "/product-images/air-purifier.jpg",
         "description": "Keep indoor air clean with this efficient air purifier."
       },
       {
@@ -237,7 +237,7 @@
         "name": "Wireless Charger",
         "category": "Electronics",
         "price": 1499,
-        "image": "images/wireless-charger.jpg",
+        "image": "/product-images/wireless-charger.jpg",
         "description": "Fast wireless charging pad for compatible devices."
       },
       {
@@ -245,7 +245,7 @@
         "name": "Terracotta Planter Set",
         "category": "Home Decor",
         "price": 1299,
-        "image": "images/terracotta-planter.jpg",
+        "image": "/product-images/teracotta-planter-set.jpg",
         "description": "Handcrafted terracotta planters for indoor and outdoor use."
       },
       {
@@ -253,7 +253,7 @@
         "name": "Jute Rug",
         "category": "Home Decor",
         "price": 2999,
-        "image": "images/jute-rug.jpg",
+        "image": "/product-images/jute-rug.jpg",
         "description": "Eco-friendly and durable jute rug for a natural look."
       },
       {
@@ -261,7 +261,7 @@
         "name": "Madhubani Painting",
         "category": "Home Decor",
         "price": 4500,
-        "image": "images/madhubani-painting.jpg",
+        "image": "/product-images/madhubani-painting.jpg",
         "description": "Traditional Madhubani artwork on canvas, perfect for your walls."
       },
       {
@@ -269,7 +269,7 @@
         "name": "Brass Diyas Set",
         "category": "Home Decor",
         "price": 1499,
-        "image": "images/brass-diyas.jpg",
+        "image": "/product-images/brass-diya-set.jpg",
         "description": "Elegant brass diyas for festive and spiritual occasions."
       },
       {
@@ -277,7 +277,7 @@
         "name": "Macrame Wall Hanging",
         "category": "Home Decor",
         "price": 1599,
-        "image": "images/macrame-wall.jpg",
+        "image": "/product-images/macrame-wall-hanging.jpg",
         "description": "Beautiful handcrafted macrame wall decor for boho vibes."
       },
       {
@@ -285,7 +285,7 @@
         "name": "Wooden Name Plate",
         "category": "Home Decor",
         "price": 999,
-        "image": "images/wooden-nameplate.jpg",
+        "image": "/product-images/wooden-name-plate.jpg",
         "description": "Personalized wooden name plate with intricate carvings."
       },
       {
@@ -293,7 +293,7 @@
         "name": "Cushion Covers (Set of 4)",
         "category": "Home Decor",
         "price": 1299,
-        "image": "images/cushion-covers.jpg",
+        "image": "/product-images/cushion-covers.jpg",
         "description": "Bright and colorful cushion covers with ethnic patterns."
       },
       {
@@ -301,7 +301,7 @@
         "name": "Himalayan Salt Lamp",
         "category": "Home Decor",
         "price": 1799,
-        "image": "images/salt-lamp.jpg",
+        "image": "/product-images/himalayan-salt-lamp.webp",
         "description": "Natural Himalayan salt lamp for soothing light and ambiance."
       },
       {
@@ -309,7 +309,7 @@
         "name": "Decorative Mirror",
         "category": "Home Decor",
         "price": 3499,
-        "image": "images/decorative-mirror.jpg",
+        "image": "/product-images/decorative-mirror.jpg",
         "description": "Stylish mirror with an ornate frame for a statement piece."
       },
       {
@@ -317,7 +317,7 @@
         "name": "Ceramic Vase Set",
         "category": "Home Decor",
         "price": 1899,
-        "image": "images/ceramic-vases.jpg",
+        "image": "/product-images/ceramic-vase-set.jpg",
         "description": "Elegant ceramic vases for flowers and modern decor."
       },
       {
@@ -325,7 +325,7 @@
         "name": "The White Tiger",
         "category": "Books",
         "price": 399,
-        "image": "images/white-tiger.jpg",
+        "image": "/product-images/the-white-tiger.jpg",
         "description": "Aravind Adiga's Booker Prize-winning novel exploring India's class struggles. Highlights India's socioeconomic realities."
       },
       {
@@ -333,7 +333,7 @@
         "name": "India After Gandhi",
         "category": "Books",
         "price": 599,
-        "image": "images/india-after-gandhi.jpg",
+        "image": "/product-images/india-after-gandhi.jpg",
         "description": "A comprehensive history of post-independence India by Ramachandra Guha. A historical perspective for readers interested in politics and history."
       },
       {
@@ -341,7 +341,7 @@
         "name": "The Palace of Illusions",
         "category": "Books",
         "price": 349,
-        "image": "images/palace-of-illusions.jpg",
+        "image": "/product-images/palace-of-illusion.jpg",
         "description": "A reimagining of the Mahabharata through Draupadi's eyes, written by Chitra Banerjee Divakaruni. A popular mythological retelling, appealing to readers of Indian epics."
       },
       {
@@ -349,7 +349,7 @@
         "name": "Train to Pakistan",
         "category": "Books",
         "price": 299,
-        "image": "images/train-to-pakistan.jpg",
+        "image": "/product-images/train-to-pak.jpg",
         "description": "Khushwant Singh's gripping tale set during the partition of India. A classic about the partition, resonating with historical fiction enthusiasts."
       },
       {
@@ -357,7 +357,7 @@
         "name": "The God of Small Things",
         "category": "Books",
         "price": 399,
-        "image": "images/god-of-small-things.jpg",
+        "image": "/product-images/the-god-of-small-things.jpg",
         "description": "Arundhati Roy's debut novel, a poignant story of love and loss in Kerala. A literary gem focusing on family dynamics and social issues in India."
       }
     ]
