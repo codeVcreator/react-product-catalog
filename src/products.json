@@ -1,0 +1,365 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Masala Chai Blend",
+        "category": "Beverages",
+        "price": 249,
+        "image": "images/masala-chai.jpg",
+        "description": "A traditional Indian tea blend with aromatic spices for a perfect cup of chai."
+      },
+      {
+        "id": 2,
+        "name": "Organic Assam Tea",
+        "category": "Beverages",
+        "price": 399,
+        "image": "images/assam-tea.jpg",
+        "description": "Premium organic tea leaves sourced from Assam, known for their rich flavor."
+      },
+      {
+        "id": 3,
+        "name": "Filter Coffee Powder",
+        "category": "Beverages",
+        "price": 350,
+        "image": "images/filter-coffee.jpg",
+        "description": "Authentic South Indian filter coffee for a strong and flavorful experience."
+      },
+      {
+        "id": 4,
+        "name": "Coconut Water Pack",
+        "category": "Beverages",
+        "price": 120,
+        "image": "images/coconut-water.jpg",
+        "description": "Refreshing and natural coconut water in a convenient pack."
+      },
+      {
+        "id": 5,
+        "name": "Badam Milk Mix",
+        "category": "Beverages",
+        "price": 299,
+        "image": "images/badam-milk.jpg",
+        "description": "A blend of almonds and spices for a nutritious and delicious drink."
+      },
+      {
+        "id": 6,
+        "name": "Aam Panna Concentrate",
+        "category": "Beverages",
+        "price": 199,
+        "image": "images/aam-panna.jpg",
+        "description": "A tangy raw mango drink mix, perfect for Indian summers."
+      },
+      {
+        "id": 7,
+        "name": "Tulsi Green Tea",
+        "category": "Beverages",
+        "price": 349,
+        "image": "images/tulsi-green-tea.jpg",
+        "description": "Herbal green tea infused with the goodness of tulsi."
+      },
+      {
+        "id": 8,
+        "name": "Thandai Syrup",
+        "category": "Beverages",
+        "price": 250,
+        "image": "images/thandai.jpg",
+        "description": "A festive drink mix with saffron, almonds, and spices."
+      },
+      {
+        "id": 9,
+        "name": "Kashmiri Kahwa",
+        "category": "Beverages",
+        "price": 299,
+        "image": "images/kahwa.jpg",
+        "description": "A fragrant tea blend with saffron, almonds, and spices from Kashmir."
+      },
+      {
+        "id": 10,
+        "name": "Rose Milk Syrup",
+        "category": "Beverages",
+        "price": 180,
+        "image": "images/rose-milk.jpg",
+        "description": "A sweet and fragrant rose milk mix loved across India."
+      },
+      {
+        "id": 11,
+        "name": "Khadi Cotton Kurta",
+        "category": "Clothing",
+        "price": 799,
+        "image": "images/khadi-kurta.jpg",
+        "description": "A classic khadi cotton kurta for a comfortable and traditional look."
+      },
+      {
+        "id": 12,
+        "name": "Banarasi Silk Saree",
+        "category": "Clothing",
+        "price": 2999,
+        "image": "images/banarasi-saree.jpg",
+        "description": "Elegant Banarasi silk saree with intricate zari work."
+      },
+      {
+        "id": 13,
+        "name": "Kolhapuri Chappals",
+        "category": "Clothing",
+        "price": 599,
+        "image": "images/kolhapuri-chappals.jpg",
+        "description": "Handcrafted Kolhapuri chappals made with genuine leather."
+      },
+      {
+        "id": 14,
+        "name": "Pashmina Shawl",
+        "category": "Clothing",
+        "price": 4500,
+        "image": "images/pashmina-shawl.jpg",
+        "description": "Luxurious pashmina shawl from Kashmir, perfect for winter."
+      },
+      {
+        "id": 15,
+        "name": "Rajasthani Bandhani Dupatta",
+        "category": "Clothing",
+        "price": 1200,
+        "image": "images/bandhani-dupatta.jpg",
+        "description": "Bright and colorful Bandhani dupatta from Rajasthan."
+      },
+      {
+        "id": 16,
+        "name": "Cotton Anarkali Suit",
+        "category": "Clothing",
+        "price": 1599,
+        "image": "images/anarkali-suit.jpg",
+        "description": "Elegant cotton Anarkali suit with embroidery work."
+      },
+      {
+        "id": 17,
+        "name": "Linen Saree",
+        "category": "Clothing",
+        "price": 2500,
+        "image": "images/linen-saree.jpg",
+        "description": "Soft and breathable linen saree for daily wear."
+      },
+      {
+        "id": 18,
+        "name": "Lehenga Choli",
+        "category": "Clothing",
+        "price": 6500,
+        "image": "images/lehenga-choli.jpg",
+        "description": "Designer lehenga choli for weddings and festive occasions."
+      },
+      {
+        "id": 19,
+        "name": "Cotton Printed Kurti",
+        "category": "Clothing",
+        "price": 999,
+        "image": "images/printed-kurti.jpg",
+        "description": "Stylish and comfortable cotton printed kurti for casual wear."
+      },
+      {
+        "id": 20,
+        "name": "Woolen Muffler",
+        "category": "Clothing",
+        "price": 499,
+        "image": "images/woolen-muffler.jpg",
+        "description": "Warm and cozy woolen muffler for cold weather."
+      },
+      {
+        "id": 21,
+        "name": "LED Smart TV",
+        "category": "Electronics",
+        "price": 25999,
+        "image": "images/smart-tv.jpg",
+        "description": "32-inch Full HD Smart LED TV with streaming apps and voice control."
+      },
+      {
+        "id": 22,
+        "name": "Noise-Canceling Headphones",
+        "category": "Electronics",
+        "price": 4999,
+        "image": "images/noise-headphones.jpg",
+        "description": "Wireless over-ear headphones with noise-canceling technology."
+      },
+      {
+        "id": 23,
+        "name": "Smartphone (5G Ready)",
+        "category": "Electronics",
+        "price": 19999,
+        "image": "images/smartphone.jpg",
+        "description": "Affordable 5G-ready smartphone with 128GB storage."
+      },
+      {
+        "id": 24,
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "price": 2999,
+        "image": "images/bluetooth-speaker.jpg",
+        "description": "Portable Bluetooth speaker with deep bass and 10-hour battery life."
+      },
+      {
+        "id": 25,
+        "name": "Fitness Band",
+        "category": "Electronics",
+        "price": 2499,
+        "image": "images/fitness-band.jpg",
+        "description": "Track your fitness goals with this lightweight, water-resistant band."
+      },
+      {
+        "id": 26,
+        "name": "Laptop (i5, 8GB RAM)",
+        "category": "Electronics",
+        "price": 45999,
+        "image": "images/laptop.jpg",
+        "description": "15.6-inch laptop with i5 processor, 8GB RAM, and 512GB SSD."
+      },
+      {
+        "id": 27,
+        "name": "Induction Cooktop",
+        "category": "Electronics",
+        "price": 2499,
+        "image": "images/induction-cooktop.jpg",
+        "description": "Energy-efficient cooktop with multiple pre-set cooking modes."
+      },
+      {
+        "id": 28,
+        "name": "Electric Kettle",
+        "category": "Electronics",
+        "price": 999,
+        "image": "images/electric-kettle.jpg",
+        "description": "1.5L electric kettle for quick and convenient boiling."
+      },
+      {
+        "id": 29,
+        "name": "Air Purifier",
+        "category": "Electronics",
+        "price": 7999,
+        "image": "images/air-purifier.jpg",
+        "description": "Keep indoor air clean with this efficient air purifier."
+      },
+      {
+        "id": 30,
+        "name": "Wireless Charger",
+        "category": "Electronics",
+        "price": 1499,
+        "image": "images/wireless-charger.jpg",
+        "description": "Fast wireless charging pad for compatible devices."
+      },
+      {
+        "id": 31,
+        "name": "Terracotta Planter Set",
+        "category": "Home Decor",
+        "price": 1299,
+        "image": "images/terracotta-planter.jpg",
+        "description": "Handcrafted terracotta planters for indoor and outdoor use."
+      },
+      {
+        "id": 32,
+        "name": "Jute Rug",
+        "category": "Home Decor",
+        "price": 2999,
+        "image": "images/jute-rug.jpg",
+        "description": "Eco-friendly and durable jute rug for a natural look."
+      },
+      {
+        "id": 33,
+        "name": "Madhubani Painting",
+        "category": "Home Decor",
+        "price": 4500,
+        "image": "images/madhubani-painting.jpg",
+        "description": "Traditional Madhubani artwork on canvas, perfect for your walls."
+      },
+      {
+        "id": 34,
+        "name": "Brass Diyas Set",
+        "category": "Home Decor",
+        "price": 1499,
+        "image": "images/brass-diyas.jpg",
+        "description": "Elegant brass diyas for festive and spiritual occasions."
+      },
+      {
+        "id": 35,
+        "name": "Macrame Wall Hanging",
+        "category": "Home Decor",
+        "price": 1599,
+        "image": "images/macrame-wall.jpg",
+        "description": "Beautiful handcrafted macrame wall decor for boho vibes."
+      },
+      {
+        "id": 36,
+        "name": "Wooden Name Plate",
+        "category": "Home Decor",
+        "price": 999,
+        "image": "images/wooden-nameplate.jpg",
+        "description": "Personalized wooden name plate with intricate carvings."
+      },
+      {
+        "id": 37,
+        "name": "Cushion Covers (Set of 4)",
+        "category": "Home Decor",
+        "price": 1299,
+        "image": "images/cushion-covers.jpg",
+        "description": "Bright and colorful cushion covers with ethnic patterns."
+      },
+      {
+        "id": 38,
+        "name": "Himalayan Salt Lamp",
+        "category": "Home Decor",
+        "price": 1799,
+        "image": "images/salt-lamp.jpg",
+        "description": "Natural Himalayan salt lamp for soothing light and ambiance."
+      },
+      {
+        "id": 39,
+        "name": "Decorative Mirror",
+        "category": "Home Decor",
+        "price": 3499,
+        "image": "images/decorative-mirror.jpg",
+        "description": "Stylish mirror with an ornate frame for a statement piece."
+      },
+      {
+        "id": 40,
+        "name": "Ceramic Vase Set",
+        "category": "Home Decor",
+        "price": 1899,
+        "image": "images/ceramic-vases.jpg",
+        "description": "Elegant ceramic vases for flowers and modern decor."
+      },
+      {
+        "id": 41,
+        "name": "The White Tiger",
+        "category": "Books",
+        "price": 399,
+        "image": "images/white-tiger.jpg",
+        "description": "Aravind Adiga's Booker Prize-winning novel exploring India's class struggles. Highlights India's socioeconomic realities."
+      },
+      {
+        "id": 42,
+        "name": "India After Gandhi",
+        "category": "Books",
+        "price": 599,
+        "image": "images/india-after-gandhi.jpg",
+        "description": "A comprehensive history of post-independence India by Ramachandra Guha. A historical perspective for readers interested in politics and history."
+      },
+      {
+        "id": 43,
+        "name": "The Palace of Illusions",
+        "category": "Books",
+        "price": 349,
+        "image": "images/palace-of-illusions.jpg",
+        "description": "A reimagining of the Mahabharata through Draupadi's eyes, written by Chitra Banerjee Divakaruni. A popular mythological retelling, appealing to readers of Indian epics."
+      },
+      {
+        "id": 44,
+        "name": "Train to Pakistan",
+        "category": "Books",
+        "price": 299,
+        "image": "images/train-to-pakistan.jpg",
+        "description": "Khushwant Singh's gripping tale set during the partition of India. A classic about the partition, resonating with historical fiction enthusiasts."
+      },
+      {
+        "id": 45,
+        "name": "The God of Small Things",
+        "category": "Books",
+        "price": 399,
+        "image": "images/god-of-small-things.jpg",
+        "description": "Arundhati Roy's debut novel, a poignant story of love and loss in Kerala. A literary gem focusing on family dynamics and social issues in India."
+      }
+    ]
+  }
+  

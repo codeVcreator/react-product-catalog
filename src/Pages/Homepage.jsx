@@ -30,7 +30,7 @@ const Homepage = () => {
                     </Link>
                     
                     {/* Customer Card */}
-                    <Link to="/customer" className="home-link">
+                    <Link to="/customer/products" className="home-link">
                         <div className="home-card customer">
                             <p>Customer</p>
                             <FontAwesomeIcon
